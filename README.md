@@ -4,7 +4,7 @@ I'm a graduating computer science major with industry experience in web developm
 
 ## Experience
 
-I've worked at Meta adding fucntionality to [Bento], an internal fork of GraphQL, (https://developers.facebook.com/blog/post/2021/09/20/eli5-bento-interactive-notebook-empowers-development-collaboration-best-practices/) where I created a custom input cell for GraphQL queries.
+I've worked at Meta adding fucntionality to [Bento](https://developers.facebook.com/blog/post/2021/09/20/eli5-bento-interactive-notebook-empowers-development-collaboration-best-practices/), an internal fork of GraphQL,  where I created a custom input cell for GraphQL queries.
 
 I also have experience doing web development at MEMX, a stock exchange, where I created a tool to enter orders into the exchange using React and Node.js
 
